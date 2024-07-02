@@ -1,4 +1,4 @@
-# ATUOYA TEST Title :link: http://blog.meekdai.com 
+# ATUOYA TEST Title :link: https://LZL-atuoya.github.io/ATUOYA
 ### :page_facing_up: [5](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1295 
